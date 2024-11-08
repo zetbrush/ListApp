@@ -7,9 +7,10 @@
 - Android Studio Ladybug | 2024.2.1 Patch 2
 - Gradle JDK: Azul Zulu 17.0.12
 - App main screen
-![app.png](readmeres/app.png)
+<img src="readmeres/app.png" alt="app image" width="300"/>
+
 - Use cases recording
-[recording.webm](readmeres/recording.webm)
+<img src="readmeres/recording.gif" alt="Use cases recording" width="300"/>
 
 
 ## Project Structure
